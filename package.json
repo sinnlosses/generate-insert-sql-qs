@@ -1,0 +1,11 @@
+{
+  "name": "microservice-generate-insert-sql",
+  "version": "1.0.0",
+  "description": "テストデータINSERT用のSQL生成",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "watch": "tsc -w"
+  }
+}
